@@ -77,20 +77,10 @@ Ensure you have the following installed:
 - **`/styles`**: TailwindCSS styles.
 - **`/utils`**: Utility functions and helpers.
 
-## Scripts
-
-- **`npm run dev`**: Starts the development server.
-- **`npm run build`**: Builds the project for production.
-- **`npm run start`**: Runs the production build.
-
-## Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Enjoy using **Store It**! For any queries or issues, feel free to reach out.
+Enjoy using **File Haven**! For any queries or issues, feel free to reach out.
